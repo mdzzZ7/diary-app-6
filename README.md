@@ -32,4 +32,4 @@ Aplikasi buku harian modern yang dibangun menggunakan **React Native** dan **Exp
 1. Pastikan sudah menginstal **Node.js**.
 2. Clone repository ini:
    ```bash
-   git clone [https://github.com/mdzzZ7/diary-app-advanced.git](https://github.com/mdzzZ7/diary-app-advanced.git)
+   git clone [https://github.com/mdzzZ7/diary-app-advanced.git](https://github.com/mdzzZ7/diary-app-6.git)
