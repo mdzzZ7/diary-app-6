@@ -17,7 +17,7 @@ Aplikasi buku harian modern yang dibangun menggunakan **React Native** dan **Exp
 
 | Home Screen & Filter | Detail & Like | Tambah Diary | Tab Favorit |
 | :---: | :---: | :---: | :---: |
-| ![Home](home.jpeg) | ![Detail](setting.jpeg) | ![Create](create.jpeg) | ![Favorite](favorite.jpeg) |
+| ![Home](home.jpeg) | ![Detail](setting.jpeg) | ![Create](create.jpeg) | ![Favorite](favorit.jpeg) |
 
 ---
 
