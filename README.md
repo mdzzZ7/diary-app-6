@@ -1,19 +1,17 @@
-# 📖 Diary App Advanced - React Native
+# 📖 Diary App 6 - React Native
 
 Aplikasi buku harian modern yang dibangun menggunakan **React Native** dan **Expo Router**. Project ini merupakan hasil implementasi dari Praktikum Mobile Programming Pertemuan 6 mengenai pengelolaan **State dan React Hooks**.
 
 ## 👨‍💻 Identitas Mahasiswa
 - **Nama:** AHMAD YUSUF ABDHILLAH
 - **NIM:** 2430511042
-- **Mata Kuliah:** Mobile Programming
+- **Mata Kuliah:** Mobile Multi Platform
 - **Program Studi:** Teknik Informatika
 - **Universitas:** Universitas Muhammadiyah Sukabumi (UMMI)
 
 ---
 
 ## 📸 Screenshot Aplikasi
-
-*(Tambahkan foto/screenshot aplikasi di bawah ini)*
 
 | Home Screen & Filter | Detail & Like | Tambah Diary | Tab Favorit |
 | :---: | :---: | :---: | :---: |
